@@ -14,7 +14,7 @@
 
 	    public FlowerImage(java.awt.Image image, java.awt.Point loc)
 	    {
-	       _fImage = new ImageIcon("daffodil1.gif").getImage();
+	       _fImage = new ImageIcon("daffodil2.gif").getImage();
 	       XLoc = loc.x;
 	       YLoc = loc.y;
 	    }

@@ -1,6 +1,13 @@
 public class FlowerApp extends javax.swing.JFrame
 {
-    public FlowerApp(String title)
+    /**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
+
+
+	public FlowerApp(String title)
     {
         super(title);
         this.setSize(600, 450);
